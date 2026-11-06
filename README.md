@@ -8,3 +8,7 @@ My first practical Git project.
 - GitHub
 - Branching
 - Collaboration
+- Html
+- CSS
+- JS
+- React
